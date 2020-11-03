@@ -1,4 +1,5 @@
-### Hello World 👋
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17px">
+
 
 My name is Rodrigo Stellitano, and I am from Brazil 🇧🇷.
 - 🔭 I’m currently working on YDUQS college developing robots :robot: with Selenium (Python), UIPATH and VBA!
