@@ -4,7 +4,7 @@
 My name is Rodrigo Stellitano, and I am from Brazil 🇧🇷.
 - 🔭 I’m currently working on YDUQS college developing robots :robot: with Selenium (Python), UIPATH and VBA!
 
-- 🌱 I’m currently learning Django and React.
+- 🌱 I’m currently learning Python for DS.
 
 - 🤔 I’m looking for help with Django and Test Quality (BDD).
 
